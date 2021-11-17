@@ -5,6 +5,7 @@
 body {
   background-color: #22254b;
   font-family: "Poppins", sans-serif;
+  margin: 0;
 }
 header {
   position: relative;
@@ -105,7 +106,7 @@ main {
   left: 0;
   bottom: 0;
   right: 0;
-  transform: translateY(100%);
+  transform: translateY(101%);
   transition: transform 0.3s ease-in;
 }
 .overview h3 {
